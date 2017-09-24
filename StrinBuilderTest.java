@@ -12,7 +12,11 @@ import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 public class StrinBuilderTest {
+<<<<<<< HEAD:StrinBuilderTest.java
     Logger log = LoggerFactory.getLogger(Function.StrinBuilderTest.class);
+=======
+    Logger log = LoggerFactory.getLogger(StrinBuilder.class);
+>>>>>>> 11ae768be9b735093cd64a9406e8021c92383e0a:StrinBuilder.java
 
     @Test
     public void stringBuild() {
