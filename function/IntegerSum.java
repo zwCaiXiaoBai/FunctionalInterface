@@ -1,4 +1,4 @@
-package Function;
+package Function.function;
 
 public class IntegerSum {
 
