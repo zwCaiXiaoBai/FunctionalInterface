@@ -17,7 +17,7 @@ import java.util.stream.Collector;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
-public class StrinBuilder {
+public class StrinBuilderTest {
     Logger log = LoggerFactory.getLogger(StrinBuilder.class);
 
     @Test
