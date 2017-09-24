@@ -6,19 +6,13 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 import java.util.ArrayList;
-import java.util.Collections;
 import java.util.List;
-import java.util.Set;
-import java.util.function.BiConsumer;
-import java.util.function.BinaryOperator;
 import java.util.function.Function;
-import java.util.function.Supplier;
-import java.util.stream.Collector;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
-public class StrinBuilder {
-    Logger log = LoggerFactory.getLogger(StrinBuilder.class);
+public class StrinBuilderTest {
+    Logger log = LoggerFactory.getLogger(Function.StrinBuilderTest.class);
 
     @Test
     public void stringBuild() {
